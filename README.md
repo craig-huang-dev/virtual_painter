@@ -16,7 +16,7 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone git@github.com:craig-huang-dev/canvas_clash_client.git
+   git clone git@github.com:craig-huang-dev/virtual_painter.git
    cd virtual_painter
 2. Install required dependencies:
    ```bash  
