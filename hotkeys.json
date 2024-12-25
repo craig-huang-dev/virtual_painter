@@ -1,0 +1,9 @@
+{
+  "clear_canvas": "c",
+  "toggle_draw": " ",
+  "brush_tool": "b",
+  "eraser_tool": "e",
+  "toggle_resizing": "r",
+  "toggle_color_picking": "h",
+  "save_image": "enter"
+}
